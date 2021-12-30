@@ -1,0 +1,58 @@
+Bong 
+by Cataclaw, Echon, Fwerp, Maestro, Xiane, Godmil, DeathKnight
+
+(A Q2Gloom multi-mapper project, led by Cataclaw)
+(Text file by Godmil)
+
+-----------------------
+
+Premise:
+
+Cataclaw came up with the concept of getting a series of mappers
+to each add a section to a map then passing it on to the next.
+Starting with Cataclaw's centre room, each mapper added a section as it came to them,
+with no predetermined plan, design or restriction, which makes for a pretty free flowing structure.
+After a few days of constant expansion, some decisions were made on how to
+tie the loose ends up in a few final sections.
+
+-----------------------
+
+		Map Editors		Build Time
+
+Cataclaw:	Worldcraft		52 hours
+Echon: 		QERadiant		2 hours
+Fwerp:          QERadiant	        2 hours
+Maestro:        QERadiant               4 hours
+Xiane:		-			-
+Godmil: 	QERadiant		9 hours
+DeathKnight: 	QERadiant		4 hours
+
+-----------------------
+
+Custom Texutures: None
+Custom Sounds: None
+Project Time: Started on 6th Sept 2003 ( http://forums.planetgloom.com/viewtopic.php?t=1292&start=0 ) completed by 24th Sept 2003.
+Compile time: 27 mins on an Athlon XP 1800+ with 512MB ram (Cata's box)
+
+(Note: Godmils section is textured entirely with textures that have been updated into Hi-Res and distributed from here: http://texture.dragonwerks.ca/ )
+
+-----------------------
+
+Thanks / Final Words:
+
+Cataclaw: It was fun guys. Oh by the way... There will be a Bong2.
+
+Echon: sup
+
+Fwerp: This map will just prove on the fact that Cata 0wns us all, btw WORD UP TO MY HOMEY KAI AND ECHON I HEART YOU BTH <3 AND MUCH RESPECT 4 GODMIL. PEACE MY NUG'S!
+
+Maestro: Damn straight brother Fwerp. This is like OMFGWTF! Nice idea Cata! Good job all!
+         I think we have begun a new chapter in map creation for the good of planet Earth.
+
+Xiane: Xiane couldn't be reached in time, but i'm sure he'd have said something nice. :)
+
+Godmil: Fantastically enjoyable project, with very encouraging team <3.
+	Thanks to Lifer and Jex (my mentors), my fellow MaF'ers, and the Tremulous Development Team :)
+DeathKnight: Was great to work with everyone. It was nice of Cataclaw to let me in on the project later on in the build time and I thank him for that.
+             I'd also like to thank Jihn for getting me started on mapping a long time ago, and of course my fellow MaF'ers.
+

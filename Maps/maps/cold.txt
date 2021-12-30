@@ -1,0 +1,38 @@
+------------------------------------------
+Title:		A Cold Night
+Filename:	cold.bsp
+Version:	Final?
+Author:		Chris "MuteMode" Deckard
+Email:	        mutemode@wideopenwest.com
+               		
+---------------INSTALLATION---------------
+
+Extract the files to Quake2/Gloom (ex. C:/Quake2/Gloom)
+
+----------------Information---------------
+
+Single Player:	No
+Cooperative:	No
+Deathmatch:	No
+Team:		Yes
+New Sounds:     No
+New Textures:	Yes
+New Music:	No
+
+-----------------Features-----------------
+
+This map is the first gloom map to include a key. Building classes are able to retrieve the key. Having done this the player with the key should try to hit the button in the opposing team's base to turn their 5 frag class "On" and turn the opposing team's "Off".
+-------------------Misc-------------------
+
+The alien base may seem a bit rushed because after a century of procrastinating, a HD crash, and most recently a power supply death... I finally decided just to finish it and never have to look at it again.
+
+-----------------Credits------------------
+
+Thanks to my loving husband Saig, for without him life wouldn't be worth living. 
+Thanks to Evil Lair at HFX for the textures.
+Thanks to R1CH for implementing entities a long time ago that are only now being put to use. 
+Thanks to Sul
+
+----------------Disclaimer----------------
+
+You may not use any part of this map for your own purposes unless told otherwise. etc

@@ -1,0 +1,32 @@
+-------------------------------------------------------------
+Filename:		rsmse.bsp
+Map Name:		RSM-01 Revisited
+Author:			Echon
+Email:			n_blast@hotmail.com
+ICQ:			14302320
+-------------------------------------------------------------
+Compiling Machine:	AMD K6-2 450mhz, 256mb PC133 SDRAM
+ACCURATE-QBSP3 1.09:	20 Seconds   (~0.33 Minutes)
+ACCURATE-QVIS3 1.03:	130 Seconds  (~2.16 Minutes)
+ARGHRAD 2.01 -EXTRA:	504 Seconds  (~8.4 Minutes)
+Overall Time:		654 Seconds  (~10.9 Minutes)
+-------------------------------------------------------------
+Created with:		QERadiant
+Map information:	851 Brushes 144 Entities
+Compile date:		July 13th 2002
+-------------------------------------------------------------
+Description:
+- Remake of a another map I like a lot, rsm01f.
+-------------------------------------------------------------
+Credits To:
+-> Who-[Soup]:		Constructive criticism.
+-> |rave|:		More constructive criticism.
+-> Cataclaw:		Was awesome about me making this.
+-> RedDragon:		Encouraging me :o
+-> DeWan:		l33t compiling tools.
+-> R1CH:		Recompiled DeWan utils for improved
+			bsp accuracy and vis process. Get the
+			files from planetgloom.com FTP.
+-------------------------------------------------------------
+		http://mapping.gamerslink.org
+-------------------------------------------------------------

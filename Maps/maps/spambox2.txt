@@ -1,0 +1,29 @@
+
+
+		SPAMBOX II
+
+Map Name:	SPAMBOX II
+Version:	1.0
+Author:		Cataclaw
+E-Mail:		Cataclaw@Cataclaw.com
+Release Date:	17/03/2004
+Editor:		Worldcraft 1.6 Shareware
+Filename:	spambox2.bsp
+
+
+Installation:	The .bsp file belongs in quake2/gloom/maps/
+		The .wal and .png files belong in quake2/gloom/textures/cataclaw/
+Build Time:	5 hours
+Compile Time:	10 minutes
+
+Gloom 1.3x:	Yes
+Gloom 1.2x:	Yes
+
+Custom Tex.:	Yes
+Custom Snds.:	No
+
+Dedicated to:	Julie (Teh GF. She didn't sex0r any italiens either. Owned, Ankka.)
+
+Thanks to:	R1CH, Ankka, etc. (The usual people)
+
+Map Info:	Behold, Spambox II. That is all.

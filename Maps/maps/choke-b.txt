@@ -1,0 +1,94 @@
+06-20-2004 - CHOKEPOINT JAMBOREE (aka SPAM-RSPEEDS lol)
+==================================================
+
+OH FUCK ITS A MAP FROM SAIG RUN FOR THE HILLS (as well as a humorous vulgar .txt file)
+
+Map Name: Chokepoint Jamboree
+BSP Name: choke.bsp
+Map Size: 3,652 KB (~3.7 MB)
+Zip Size: 2,332 KB (~2.3 MB)
+
+Author: Saig
+Email: saig@planetgloom.com
+
+Description: Yes I havent released a map in god knows how long, and for good reason. Chances are this map is going to stink just like my other abysmal failures, but what the hell at least Ill make the map look good right lol. 
+
+As the map name implies, the map is one gargantuan chokepoint. No alternate paths to either team's base, just one long route, so if you get lost on this map, you are a fucking idiot.The idea is that teams MUST build forward and advance in order to win. The map itself is fucking gargantuan, so you cant simply keep attacking the other teams base reliably without building forward. From my examination it takes roughly 40 or so seconds to get from one end of the map to the other, jumpstrafing that is.
+
+Fortunately theres a lot of places packed into the map for builder classes to have fun with, I hope. If you have any gripes about the map, namely the fact its just a chokepoint in itself, eat me. Seems from the current state of Gloom that everyone loves a chokepoint, why else would the clowns stay on fucking Gloom2.bsp for 8 fucking hours spamming a hallway.
+
+Oh and one last point. There is no theme to the map. Its just a base, with more base, and sewery pipe shit, and a few crates. There actually arent THAT many crates in my opinion. What there are a lot of are pipes though, and just so you know, pipes cause insane r_speeds. More on that later in the possible bugs section lol.
+
+MAP REVISION CHANGES
+=====================
+
+Modified a bit to make things even more hectic, or even things out. Who the fuck knows. Here is an assfuck-load of tweaks:
+
+*Shortened the small hidey walls in the long curving hall to the human base. Aliens continually running into these is not a good thing, but most smart spiders would just strafe-jump against the side of the hall anyway.
+
+*The large mountainous area outside the main human base now has easy access to to small cliffside/ledge. No class will have much trouble getting up there now. Even though some dont like the cliff in itself...blow me. I also clipped off a higher up cliff which humans were building to, and would therefore create bad bad spawns. I left the other high-ledge alone, since spawns built up there arent a problem.
+
+*The doorway to the long hallway with pipes lining the ceiling has been modified. It is now a semi-wide hallway, and has a couple corners added to it. Basically its not really a doorway anymore, instead a hall of death. This is to even things out for the spids, who seem to have a rough time at that chokepoint. I expect massive spam here, so dont let me down.
+
+*The long hallway with pipes lining the ceiling, you can now get up there and traverse the piping. Only certain ones can be reached though, and the ones directly above the hall leading to the large outdoor area are not. 
+
+*Added few more places to stack/build/hide shit for aliens in the large pipe room near their base. Ive also added doors to the main alien spider base so that humans cant just sit and spam from one end of the hall directly into their base.
+
+*The blue hallway leading to the oudoor area with the half-pipe sewer canal had a problem I witnessed several times. The little alcove/ledge lining the hallway could be stood on, and made things much easier for humans since spids would end up just biting at their feet instead of hitting them in the noggin. Clip brushes now line the space and nobody can stand there anymore.
+
+*Fucked around with the small outdoor area with the canal thing. Not many big changes, but I tried to close up the distance from the green-hall doorway to the main part of that section. I did as much as I could without totally botching the entire part of the map (ie not having to redo it all). Not much really, but I spruced it up so it doesnt look quite as bland anymore.
+ 
+*The branching green-lit hallway has been limited to just one hallway now. Having two ways into any room wasnt the original idea I had in mind. I didnt like the branching paths originally but kept it in, but seems as though it made things less chokey at that point of the map, which is not what Im aiming for here.
+
+*Various other tweaks which you will probably not notice as well, figure that. Mostly clip brushes to keep you from getting caught up on something, and detail/texture/ambience tweaks as well.
+
+Installation (<--FUCKING READ THIS)
+============================
+
+Ok seems there are some idiots still out there so heres how it goes. Open with winzip, EXTRACT ALL FILES WITH "USE FOLDERS" CHECKED TO YOUR "GLOOM" DIRECTORY. How can I make this any easier for you. Files should go into right spots. If they dont you fucked something up and deserve to have your head slammed against the rim of a toilet bowl repeatedly.
+
+Map Information
+============
+
+Game Type
+-----------------
+Single Player: Sure knock yourself out....
+Deathmatch: No...just...no
+Team DM: What are you fucking retarded, read Deathmatch
+Gloom: INDEED
+Special Entities: None. Not a mission map.
+
+Additional Info
+------------------------------
+New Sounds: No
+New Textures: Yes - Couple of textures I swiped from Chamooze (amuhn), and a few textures from Jackboot texture set. Jackboot textures done by a guy named Rorchach I think. Awesome stuff, though I doubt hes around anymore. Vedacon also made the slime texture I think, but he should be ok with this.
+New Skybox: If you count snow2 as a "new" skybox, maybe. For those 5 people that dont have it, its included in the zip and is the specified env map for this map.
+
+Compile Info
+------------------
+Qbsp: 11 seconds
+Qvis: 140 seconds
+Arghrad: 609 seconds
+
+Total Compile Time: 760 seconds (12 minutes, 40 seconds)
+
+Compile Machine: 2.6 Ghz, 512 Mb Ram. Bottom line, it compiled nice and quick.
+
+
+BUGS
+----------
+Hahah ok where do I start. There actually arent any "technical" bugs. Everything works as it should, and no graphical errors or anything. Any spots a player could possibly be stuck in I covered over with clip brushing to make sure that shit doesnt happen. HOWEVER, the biggest problem with the map is the r_speeds. Im going to tell you right now....
+
+IF YOU HAVE A CRAPPY MACHINE DONT BOTHER ATTEMPTING TO PLAY THIS MAP...
+
+I know it goes against how much of an r_speed nazi I used to be back then, but fuck that. By now everyone should have a reasonable system, most likely well over the requirements/reccomended spec's for Quake2. But if youre still stuck on a crap box, seriously just dont bother. Im talking 800 r_speed average here, as well as AROUND 1200 TO 2000 RSPEEDS in a select few areas. I know I didnt build this shit with r_speeds in mind, but as long as you have a reasonably up-to-date system you should be fine.
+
+Anything I Missed
+=============
+
+Not really anything, just heed the r_speed warning. Im fucking not kidding either.
+
+AHHHH Glorious Copyright Info!
+=======================
+
+Do I really have to repeat it. Ok here. First and foremost, you cant use this map for any commercial gain. Thats about all that needs to be known. This means if you try to make a profit off this map, youre a fucking dipshit....UNLESS you get permission from me first, so I can get a cut out of it lol. As if youd be able to make a profit off this map in the first place though, good luck on that one douchebag. Also, you will not decompile this map and steal shit from it. If you do you will find your nose next to your pillow after you wake up, since Id have knocked you unconscious and chopped it off with a pair of nail clippers while you were out cold. Though if you do want to decompile and take something or learn from the map, ASK FIRST via email. If you take this map and rename it as your own, I will cram a shovel into your asshole and break it off in there. If you distribute this map anywhere, be sure to include this .txt file, regardless of how vulgar it may be. Basically, if you want to do anything questionable with this map, contact me at my email...or find me online somewhere and see if I let you.

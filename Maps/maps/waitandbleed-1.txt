@@ -1,0 +1,11 @@
+"Wait and Bleed"
+
+A map intended for Quake 2 Gloom  (www.planetgloom.com)
+
+Editor: QuArK v6.6
+
+Filename: waitandbleed-1.bsp
+
+Releasedate: 080927 (this is the beta-version)
+
+Made by Nunca

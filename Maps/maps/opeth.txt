@@ -1,0 +1,68 @@
+~ Opeth ~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Map Information
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Map Name:	Opeth
+Map Author:	Cataclaw
+Map Email:	Cataclaw@Cataclaw.com
+Version/Build:	1.0 / 0013
+File Name:	Opeth.bsp
+Build Time:	4 Days
+Compile Time:	10 Minutes (more or less)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Map Installation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Extract zip file to ../Quake2/gloom/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+About...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Opeth is one of the best bands ever.
+You haven't lived until you've listened to Opeth.
+I was a skeptic at first. Death metal? What's that?
+I was just another heavy metal, power metal, thrash metal
+and symphonic metal fan - until i discovered a new subgenre.
+In fact, Opeth should be a subgenre of it's own. Damn good
+music...
+
+Special thanks to the following people:
+
+[PeSTiCiDE] - He's a huge Opeth fan and therefore kicks ass.
+              Map was his idea and has him to thank for.
+              He was also the one who introduced me to Opeth...
+              <3 Pest
+
+R1CH	    - My master, who once again provides valuable
+	      assistance with map debugging and feedback.
+              <3 R1CH
+
+And Opeth Fans Everywhere...
+
+
+
+		      "I am awaiting the sunrise
+	       Gazing modestly through the coldest morning
+		         Once it came you lied
+	        Embracing us over autumn's proud treetops
+		          I stand motionless
+		     In a parade of falling rain
+		       You voice I cannot hear
+		        As I am falling again
+		           Devotion eludes
+		       And in sadness I lumber
+	     In my own ashes I am standing without a soul
+		  She wept and whispered: "I know..."
+		      We walked into the night
+		      Am I to bid you farewell?
+		    Why can't you see that I try
+		       When every tear is shed
+			     Is for you?"
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Copyright stuff - Blah blah, i catch
+you stealing stuff from me, you're in trouble.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

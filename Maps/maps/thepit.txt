@@ -1,0 +1,125 @@
+
+"The Pit" by a_drunk_bastard
+
+--------------------------------------------------------------------------------
+------------------------------ Map Info ----------------------------------------
+
+Map Title	: The Pit
+		  by ADB
+Version Number	: a
+Mod		: Gloom
+By		: a_drunk_bastard
+Bsp Name	: thepit.bsp
+Custom Textures	: gloom/textures/adb/scoreback.wal
+Custom Sounds	: ---
+Credits		: ---
+
+--------------------------------------------------------------------------------
+------------------------------ Files In This Archive ---------------------------
+
+thepit.txt	: This Text File
+thepit.bsp	: The Compiled Map
+scoreback.wal	: custom texture
+
+--------------------------------------------------------------------------------
+------------------------------ Comments ----------------------------------------
+
+This is a mission based map. The mission is to kill the enemy species more times
+than they kill you. Every time you spawn you get 1 free frag AND every time
+you spawn you give the OTHER team 1 point. Every 20 points makes a bar on the
+score board, and at 15 bars (300 enemy spawns) the other team loses their
+spawns. Engineers, Breeders, and Kamis are disallowed in this map. Additionally
+there are 3 trigger healers on the periphery of the map, and 1 trigger repair in
+the center set up to approximate a slow engy.
+
+It should take about 15 minutes for 8 people (4 per team) to finish the game. 
+
+This map is designed to be fast and fun so 8 players is the recomended minimum
+and 12 or more the ideal. Have fun. :)
+
+--------------------------------------------------------------------------------
+------------------------------ Construction Notes ------------------------------
+
+Base			: Original
+Time To Make Map	: about 2 weeks
+Editors Used 		: QuArK version 6.3
+
+--------------------------------------------------------------------------------
+------------------------------ Compile Notes -----------------------------------
+
+Compiling Machine	: Pentium 4 2.53 Ghz / 1024 MB DDR333 CL2
+Operating System	: Windows XP Home
+Editor                  : QuArK 6.3
+TXQBSP3			: 8 seconds
+TIMVIS3			: 0 seconds
+ArghRAD (-chop 32)	: 442 seconds (7 minutes 22 seconds)
+Compile date		: May 2nd 2003
+
+--------------------------------------------------------------------------------
+
+ --- QuArK ---  Quake Army Knife  QuArK 6.3
+
+_____________________ BSP VIS RAD(smallchop)       (Run) _____________________
+
+note: this console may not display the program output before it's terminated
+D:\programs\quake2\gloom> "D:\programs\quark\compilers\quake2\txqbsp39.exe" ./ma
+ps/thepit.map
+
+TXQBSP3 0.9 -- based on code by id Software -- QUAKE 2
+Modified by Armin Rigo and compiled Feb  6 2000 by Decker
+--------------------------------
+with extensions for QuArK (Quake Army Knife) :
+  floating-point coordinates and enhanced texture positionning
+http://www.planetquake.com/quark
+--------------------------------
+entering D:\programs\quake2\gloom\./maps/thepit.map
+0...1...2...3...4...5...6...7...8...9... (5)
+0...1...2...3...4...5...6...7...8...9... (2)
+writing D:\programs\quake2\gloom\./maps/thepit.prt
+Writing D:\programs\quake2\gloom\./maps/thepit.bsp
+    8 seconds elapsed
+
+D:\programs\quake2\gloom> "D:\programs\quark\compilers\quake2\timvis3.exe" ./map
+s/thepit.map
+
+---- vis ----
+reading D:\programs\quake2\gloom\./maps/thepit.bsp
+reading D:\programs\quake2\gloom\./maps/thepit.prt
+ 189 portalclusters
+ 514 numportals
+0...1...2...3...4...5...6...7...8...9... (0)
+0...1...2...3...4...5...6...7...8...9... (0)
+Average clusters visible: 43
+Building PHS...
+Average clusters hearable: 87
+visdatasize:7450  compressed from 9072
+writing D:\programs\quake2\gloom\./maps/thepit.bsp
+  0.0 seconds elapsed
+
+D:\programs\quake2\gloom> "D:\programs\quark\compilers\quake2\arghrad.exe" -game
+dir .. -moddir . -chop 32 ./maps/thepit.map
+
+----- ArghRad 2.01 by Tim Wright (Argh!) -----
+Modified from original source code by id Software
+
+----- Settings -----
+ -gamedir set to ..\  (game pak dir)
+ -moddir set to .\  (mod pak dir)
+ -chop set to 32.0  (surface patch size)
+----- Load BSP File -----
+reading D:\programs\quake2\gloom\./maps/thepit.bsp
+----- Light World -----
+0...1...2...3...4...5...6...7...8...9... (30)
+0...1...2...3...4...5...6...7...8...9... (386)
+0...1...2...3...4...5...6...7...8...9... (1)
+----- Save BSP File -----
+writing D:\programs\quake2\gloom\./maps/thepit.bsp
+----- Time -----
+  442 seconds elapsed
+
+/maps/thepit.bsp: ready
+/maps/thepit.lin: ignored
+Files stored in D:\programs\quake2\gloom\
+D:\programs\quake2> Quake2.EXE +exec server.cfg +set game gloom +map thepit
+
+recursive shutdown

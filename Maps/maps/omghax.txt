@@ -1,0 +1,30 @@
+
+
+		OMGHAX!
+
+Map Name:	OMGHAX
+Version:	1.0
+Author:		Cataclaw, ThePyro, Kris Siuda, Karnage
+E-Mail:		Cataclaw@Cataclaw.com
+Release Date:	29/04/2003
+Editor:		Worldcraft 1.6 Shareware
+Filename:	omghax.bsp
+
+
+Installation:	The .bsp file belongs in quake2/gloom/maps/
+Build Time:	25 minutes
+Compile Time:	2 hours
+
+Gloom 1.3x:	Yes
+Gloom 1.2x:	Yes
+
+Custom Tex.:	No
+Custom Snds.:	No
+
+Thanks To:	ThePyro for giving me permission to use his mines .map file.
+		The other two mappers haven't played gloom for centuries, so
+		i figured it would be ok :P
+
+Map Info:	It is the ultimate evil... MINESGLOOMKARN! MWAHAHAHA!
+		Lighting in the Infest Cavern parts is odd, i know.
+		Blame arghrad for being superior to qrad3.

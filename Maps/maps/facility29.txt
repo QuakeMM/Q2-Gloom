@@ -1,0 +1,36 @@
+
+
+Mapname: Facility 29 - topside
+Author : bitspit 
+E-Mail : bspit@planetquake.com
+
+
+Build time: on and off for a long time
+
+compile time: 30 minutes on an amd 1.0ghz/768MB ram.
+
+
+Basic info : A simple gloom map. This map utilizes a subset of HFX textutes ( http://www.planetquake.com/hfx ) converted to PNG and WAL formats for use with most quake2 mods.Note the textures are property of hfx/Yves Allaire and you must credit him if you choose to use them. 
+
+There has been some discussion reguarding the scale/layout. The map was intended for gloom use and as such theres room to jump and do battle. Doors are 128x128 and 256x256. Lots of places to build, 2 main entrances for each base. 
+
+If there was a storyline I would say facility 29 is some sort of human cargo base and an illegal alien shipment um breaks out and chaos ensues. have fun!
+
+
+gloom addnum - bases/starting pts are defined as follows:
+  
+  each team has 300 pts in turrets/spikers
+  each team has 4 start spawns.
+  each team has 4 gassers/detectors
+  each team has 2 hlr/depot
+
+Ps : Dont cry to me about every little texture or crate or shadow you see not perfectly aligned. Its decent for what it is, theres far worse out there. 
+
+
+
+
+
+
+
+
+    

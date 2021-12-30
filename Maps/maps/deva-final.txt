@@ -1,0 +1,20 @@
+Devastator Resurrection
+-----------------------
+Intended for Quake 2 Gloom (www.planetgloom.com)
+-----------------------
+File    :deva-final.bsp
+-----------------------
+Author  :Nunca
+Editor  :Quark VI
+Released: 18th of December 2006
+
+Unzip into your Quake2\gloom directory
+
+So, what´s the point of making a special edition of a map that was made 3 1/2
+years ago? Not much, but I always liked the first one and always wanted to
+fix the serious flaws on it. So, enjoy!
+
+NOTE! 2 earlier betaversions, named devastator-se.bsp and devastator-final.bsp
+was released a few days/hours prior to this one.Please throw those to hell.
+
+

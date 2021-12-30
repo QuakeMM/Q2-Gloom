@@ -1,0 +1,38 @@
+Map Pack 1
+by Savvy
+Revision: 2
+
+==== Reasons for Savvy maps ====
+smis.bsp - speed mission map contest between me and nobee at one time.
+easerisland.bsp - 1 day ordeal for easter 2007 or 2008 i believe
+savvy-betaX.bsp - urban sprawl
+compind-bX.bsp - to show people i can actually make a map that isn't just squared off corners everywhere
+cavern666-betaX.bsp - a simple map created with the intent of quick games
+gdm4-beta1a.bsp - an attempt at merging basic techniques used in various maps - such as backway hallway mixed from mines-2, gloom, and spambox
+enttibox-beta1.bsp - entti kept poking fun at how most of my maps use mostly square rooms and usually contain boxes to fill them up. i made this flood clone for him
+amuse.bsp - an unfinnished attempt at creating an amusement park, really meant to be a carnival. My brushwork is both lacking and confusing. I may remake this later.
+infapX.bsp - an unfinnished attempt at creating an infested airport, all custom crappy textures, this way it can be made standalone
+
+
+==== Mapnames (by Savvy) ====
+savvy-beta5.bsp
+ragesucks-beta2b.bsp
+compind-b3-pre2.bsp
+crackpipe-beta1.bsp
+cavern666-beta1.bsp
+gdm4-beta1a.bsp
+enttibox-beta1.bsp
+
+smis.bsp (status: bugged)
+gdm1.bsp (status: completed)
+easterisland.bsp (status: completed)
+mine232.bsp (status: completed)
+
+==== Mapnames (by Ectox/ectos) ====
+a_cave1fg.bsp (status: complete)
+
+
+==== Mapnames (by Various Authors) ====
+infapc.bsp (stauts: incomplete) - Authors: Savvy, Kabelsax, Pea Pea
+amuse.bsp (status: incomplete) - Authors: Savvy, person who suggested it
+

@@ -1,0 +1,54 @@
+
+
+		||||| THE PRISON |||||
+
+Map Name:	The Prison
+Version:	2.0
+Author:		Cataclaw
+E-Mail:		Cataclaw@Sympatico.ca
+Dedicated To:	Silica Gel Alliance - Clan {SGA}
+Release Date:	Tuesday, December 18th, 2001
+Editor:		Worldcraft 1.6 Shareware
+Filename:	prison.bsp
+
+
+Installation:	Custom textures are in quake2/gloom/textures/cataclaw/
+		The .Bsp file belongs in quake2/gloom/maps/
+Build Time:	Too long.
+Compile Time:	On my PII 400Mhz /w 320MB Ram: 2 hours
+
+Gloom 1.3x:	Yes
+Gloom 1.2x:	Yes
+
+Custom Tex.:	Yes
+Custom Snds.:	Yes
+
+
+Thanks To:	-Gryt-	 Assorted stuff. Playtesting, awesome environment map. :D
+		-Sul -   Debugging help. Thanks :)
+		-Ankka - Helping me with optimizing the map, playtesting, i can almost say this map
+			 was co-made by ankka and me, he helped me a great deal. Thanks a lot :)
+		-Ghost - Providing me with the breeder texture. (That's him in the picture!)
+	
+		Anyone else i didn't mention!
+
+		I'd also like to point out.. *** HOB SUCKS ***
+
+Version info:
+	v2.0	- Fixed a number of bugs.. added railing to the ramp in prison cell room. 
+		  Revamped spider base. Upgraded human base. Optimized some areas by reducing r_speeds.
+		  Added a new structure to outdoor area outside spider base. Added second entrance to human base.
+		  Added a few evil... secrets :)
+	v1.0	- Initial release
+
+	
+Map Info:	It's a prison. Play and have fun. Etc.
+
+Known bugs: 	Some minor vis errors. You can see through the prison cell bars. There's nothing
+		i could do about those, so just live with it :) The map at first glance might appear to be a bit
+		human friendly with the overall brightness, but from playtesting the map, spiders actually
+		win the map more than the humans, so i guess it all works out well. Enjoy :)
+
+Copyright stuff:
+Blah blah, don't l33ch textures, don't copy my idea, blah blah the intro.wav 
+is taken from C&C: Red Alert's Hell March, blah blah blah, etc...

@@ -1,0 +1,23 @@
+	=========================
+	 Hell is round the corner
+	=========================
+
+ Creator      - {MaF}Nunca
+ E-Mail       - panoptikon@yahoo.com
+ Release Date - Sunday the 21th, December 2003.
+ File         - hellround.bsp	
+
+ Editor                  - QuarK VI (http://www.planetquake/quark.com)
+ Build Time              - About 90 hours (excluding rebuilds)
+
+
+	This map is dedicated to Cyclops, Samedi, Oddjob and the other
+		Thanks For Dying! heroes.
+
+Dear Jesus, Buddah and Allah, please make the r-speeds low even though I crammed
+this map with junk. Players will notice that there are no really, really high places for spawns.
+We´re all thankful for that.
+		   
+		
+Thanks to:  Chamooze and Virgo of the [A]-team, [BT]Edo and {GZ}Who-[Soup] (the mapping guru).
+

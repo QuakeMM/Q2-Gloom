@@ -1,0 +1,22 @@
+File name: mine420.bsp
+Author: psylo
+
+made for gloom   (http://www.planetquake.com/teamreaction/gloom/index.htm)
+a quake2(www.idsoftware.com) 
+modification by TeamReaction (http://www.planetquake.com/teamreaction/)
+
+in the highly unlikely, yet still possible case that you dont know this mod
+get the files and info at www.planetgloom.com
+and cool effects at www.echon.org
+-check it out! best game ever!
+
+
+most textures by HFX (http://www.planetquake.com/hfx/)
+totally awesome!
+
+
+
+thanks to zorg, Edo, the team420 and Who-[Soup]
+
+
+dont rip off this bsp unless its for the good of gloom :)

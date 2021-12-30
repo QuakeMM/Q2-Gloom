@@ -1,0 +1,18 @@
+"night desert" environment map for Quake][
+---------------------------------------------------------
+
+archive:	desert3.zip
+version:	beta 2 (floor texture doesn't match)
+
+author:		sascha otterbein aka mne[MON]ik
+e-mail: 	mnemonik@planetquake.com
+web:		http://www.planetquake.com/khaki
+
+this is set for both software and openGL users.
+
+
+what you can do with this stuff:
+---------------------------------------------------------
+this sky is exclusively for GLOOM by Team Reaction. 
+if you want to use it in your own map or mod then
+please mail me and I might consider.

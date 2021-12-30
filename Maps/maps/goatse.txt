@@ -1,0 +1,31 @@
+	
+
+Map Name:	TEMPLE OF GOATSE
+Version:	2.0
+Author:		Cataclaw
+E-Mail:		Cataclaw@Cataclaw.com
+Release Date:	16/12/2004
+Editor:		Worldcraft 1.6 Registered
+Filename:	goatse.bsp
+
+Installation:	The .bsp file belongs in quake2/gloom/maps/
+		The .wal and .png files belong in quake2/gloom/textures/cataclaw/
+
+Build Time:	55 hours (including texture making)
+Compile Time:	834 seconds
+
+Gloom 1.3x:	Yes
+Gloom 1.2x:	Yes
+
+Custom Tex.:	Yes
+Custom Snds.:	No
+
+Thanks To:	Everyone who participated in beta testing, especially the qcon 2004 gang. Thanks!
+		Special thanks to R1 for suggesting i animate Domokun's arms.
+		Also, special thanks to nerd, stasis, darkzenith and ryuenjin who supplied me
+		with the Bawls necessary during qcon 04 to construct this flaming pile of brushwork.
+
+Map Info:	Just another generic map. Resembles some sort of water treatment facility (vaguely).
+		Oh and there's a giant man opening his anus. And Domokun. Who waves his arms. And eats you.
+
+Misc Notes:	Version 1 was completed at qcon '04 and was never released.

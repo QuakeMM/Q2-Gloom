@@ -1,0 +1,23 @@
+Inter-Linked (Linx.bsp) by Ranger, Rangeway, Range.  Some people couldn't figure out we're all the same guy.
+
+The purpose of Linx: a map that is hard to camp, narry a choke point in sight, this will be another big ho-hum beause every player in gloom lives for choke points, how else can humans get mega kills?  There are 4 different routes to either base.  Two canyons, the ground is a different color, not that it makes much differnce.  One is snakelike, the other is more jagged.  There is an underground cavern, it's pretty dark.  Lastly, some relative indoor route, it has an opening to the ourside that only exterms and aliens that can fight gravity can use.  There are 2 visible exits from each base, and 2 others that are hidden in the map which can be activated from access areas.
+
+The Bases!  Humans have a dock, with a ferry.  Crates on that dock.  Offices, One will act as a depot.  hint: it's the one playing music.  Aliens are in a barn.  The eggs are hanging from the top of small silos which i retrofitted with ramps instead of funnels.  They are not prefabs.  I made them, I like them, They look cool.  Pain to remove them/kill them.  Humans, you may find the aliens eggs really really hard to blast.  Expect Hts and Sts to blow them up most, perhaps c4 can do it, dependant on its strength in a dll.
+
+I put a hell of a lot of time and effort into this map, and quite a bit of thinking too.  That would be what separates Linx from gloom23.
+
+As in any big ass map, Compile times are enormous.  11 seconds to bsp... and 2 hours to vis and rad.  I've worked hard to keep R_speeds low, and the speeds are reasonable in most areas. If you have major problems with the outside areas, there are many areas that wont be laggy for your system.  My computer handles all of Linx without slow down.  I realize others do not have that luxury.  I learned some very secial things about how the bsp-vis process works, there are major grids made every 1024 units, use GL_showtris 1 and you will notice what i mean in the outer canyons.
+
+The Bird sound files I copied from www.naturesongs.com
+
+the sky is from some gloom map. Night1, not mine.
+
+The rest is alllll baseq2 stuff.
+
+I used QERadiant, the mapper of champions.
+
+copywrite '04.. blah blah.. don't use my crap without the props to me ehh?
+
+
+
+Lastly, I am leaving for Marine Corps Basic Training on November 1st, 2004.  This will probably be my last map, for a while, if not ever again.  Toxic2 revision will not be released because I've run out of time.  This is better anyway.

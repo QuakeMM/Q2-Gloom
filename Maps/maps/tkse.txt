@@ -1,0 +1,39 @@
+
+	TOTALKARN SE
+
+Map Name:	Totalkarn SE
+File Name:	tkse.bsp
+Version:	1.0000
+Author:		Cataclaw
+E-Mail:		Cataclaw@Sympatico.ca
+Dedicated To:	iX (#Inexorable)
+Release Date:	Monday, Feb 10, 2003
+Editor:		Worldcraft 1.6
+
+Installation:	Custom textures should go in quake2/gloom/textures/
+		The .Bsp file belongs in quake2/gloom/maps/
+Build Time:	A week or so
+Compile Time:	R1CH's box (2400mhz P4, 1024mb RAM)
+				  	 Don't know, but it was fast.
+
+Custom Tex.:	Yes
+Custom Snds.:	No
+
+
+Thanks To:	R1CH: Once again, R1 provides valuable feedback, technical advice and free compiles :)
+		I can't thank you enough for the help you've given me over the years.
+		Saig: Thanks for the testing and feedback. Now you get to review the map for the GMD :)
+
+Version info:
+
+	v1.0	- Initial release
+	
+
+Map Info:	It's a remake of totalkarn. If you don't know what totalkarn is, you haven't been playing gloom
+		long enough. In fact, you haven't been playing for much more than a day, since the damn map is
+		played so much on onecall everyone knows it like the back of their hand. I tried to enhance both
+		the visuals and the gameplay. Let me know what you think: cataclaw@sympatico.ca
+
+
+Useless copyright stuff:
+Blah, blah, quake2 id software, blah blah, custom textures, blah blah, don't do illegal stuff with this, blah blah.

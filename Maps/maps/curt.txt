@@ -1,0 +1,15 @@
+OloQlpW (curt.bsp) by Rangeway
+
+(insert some imaginative garbage here)
+
+Teams start with no defensive structures, but they do have 500 build points and 4 spawns each.
+
+The textures for the bathroom stall wall i created.  Props to me.
+
+the sky is from that terrible city map.
+
+The rest is alllll baseq2 stuff.
+
+I used QERadiant, the mapper of champions.
+
+copywrite.. blah blah.. don't use my crap without the props to me ehh?

@@ -1,0 +1,41 @@
+	==================
+	 Under Dreamskies 
+	==================
+
+ Creator      - {GZ}Who-[Soup]
+ E-Mail       - who@gzclan.com
+ Release Date - Friday the 19th, December 2003.
+	Total Brushes  - 3102
+	Total Entities - 271
+
+ Editor                  - QERadiant (http://www.qeradiant.com)
+ Build Time              - Impossible to count
+ Compile/Build Computer  - Windows 2000 Thunderbird 1000Mhz 640MB RAM
+ Qbsp3                   -   55 seconds 
+ QVis3                   -  588 seconds (9 Minutes, 48 Seconds)
+ ArghRAD                 - 4646 seconds (77 Minutes, 26 Seconds)
+
+	This map is dedicated to Jex, for our
+		two year anniversary.
+
+ This map has been created out of the ruins of other and smaller maps. I
+ spent quite some time trying to keep this map playable, but due to the 
+ nature of my map designs, computers who cannot handle the technology are
+ out of luck. Some of you will probably think me a hypocrit, for having
+ verbally shot down others' maps for the same reason, but unlike them, I
+ never designed my map to be a playable map, but rather a work of art that
+ just happens to be a map as well. I did put in effort so as not to make
+ it too harsh, and as long as all doors are closed the r_speeds should 
+ never rise much above a thousand in normal areas, to my knowledge. 
+
+
+ Thanks to Jex, Godmil, GZ and the Tremulous team.
+
+ ===============================================
+     What I am, I must not show.
+     What I am, thou could not know.
+     Something between heaven and hell,
+     Something that neither stood nor fell,
+     Something that through thy wit or will,
+     May work thee good, may work thee ill.
+ ===============================================

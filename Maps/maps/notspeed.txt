@@ -1,0 +1,7 @@
+This isn't a very serious map so i cba to write up a full text.
+
+DISCLAIMER:
+
+This map contains a tiny portion of 'Star Trek: Gloom' (aka STG). The .PNG textures haven't been included, only the .WALs. Plus, it's only a small corridor and i didn't include any sounds. Still, you may NOT use any of the textures or decompiled brushwork without my authorization. Attempting to create your own STG from my work will result in a permban from the gloom community. Don't even think about it.
+
+You'll have to wait until qcon 2004 to see it.
