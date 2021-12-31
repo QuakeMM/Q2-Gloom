@@ -4,7 +4,6 @@
 
 The following map packs have been included:
 
-* ultimate-gloom-mappack-v1.zip
 * Gloom.All.Map.Pack.2004-12-19.PAKs.7z
 * ultimate-gloom-mappack-v1.zip  (courtesy of Savvy)
 
